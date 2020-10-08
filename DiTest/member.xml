@@ -11,7 +11,6 @@
 		<property name="mdao" ref="mdao">	</property>
 		<!-- name="생성할 객체의 변수명, 참조할 setter 이름" 
 			ref="참조하는 객체의 변수명, 받아오는 변수명"
-			
 		-->
 	</bean>
 	
